@@ -219,9 +219,9 @@
         "description": "What would it take to unlock the collaborative power GitHub for everyone? For researchers, policymakers, educators, and journalists? The whole world is “going GitHub,” and yet GitHub is still surprisingly hard for most everyday users to use. Join us to map out the territory and build solutions; to explore what’s possible in this new world of open, networked, co-creation.", 
         "facilitator_array": [
             "Phillip Smith, @phillipadsmith", 
-            "Matth Thompson, @openmatt"
+            "Matt Thompson, @openmatt"
         ], 
-        "facilitators": "Phillip Smith, Matth Thompson", 
+        "facilitators": "Phillip Smith, Matt Thompson", 
         "id": "325", 
         "location": "Floor 4 - 403", 
         "pathways": "Scaling Participatory Learning Experiences", 
@@ -1575,9 +1575,9 @@
         "id": "381", 
         "location": "", 
         "pathways": "What's your policy?", 
-        "scheduleblock": "sunday-session-block-5", 
+        "scheduleblock": "sunday-session-block-7", 
         "space": "Digital Citizenship", 
-        "start": "11:30 AM", 
+        "start": "02:45 PM", 
         "title": "CopyBetter: Copyright Reform in the EU"
     }, 
     {
@@ -1656,9 +1656,9 @@
         "id": "95", 
         "location": "", 
         "pathways": "R-E-S-P-E-C-T", 
-        "scheduleblock": "sunday-session-block-7", 
+        "scheduleblock": "sunday-session-block-5", 
         "space": "Digital Citizenship", 
-        "start": "02:45 PM", 
+        "start": "11:30 AM", 
         "title": "How to Fight an Internet Shutdown"
     }, 
     {
